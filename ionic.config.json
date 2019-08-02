@@ -1,0 +1,7 @@
+{
+  "name": "txsapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

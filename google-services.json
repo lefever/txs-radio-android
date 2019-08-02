@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "96554383437",
+    "firebase_url": "https://txs-chat.firebaseio.com",
+    "project_id": "txs-chat",
+    "storage_bucket": "txs-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96554383437:android:c004da048350790d",
+        "android_client_info": {
+          "package_name": "com.indigo.txsradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96554383437-gs3sbaer90258ujm56i2m3p6qpmu8j7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indigo.txsradio",
+            "certificate_hash": "0861b3064cbed4dbbe5096d11589b24907947a7b"
+          }
+        },
+        {
+          "client_id": "96554383437-r4t9dkjne0g4l8l7ibeoeog3fsgfu749.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQjdVw8sJAObtiICnqfw9WaZe1GN35sTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96554383437-r4t9dkjne0g4l8l7ibeoeog3fsgfu749.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96554383437-8re8a8ei7efp5nfgbdsvvak50sj0288u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.indigo.txsradio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
